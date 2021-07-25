@@ -1,0 +1,62 @@
+input{
+	padding:10px 20px 10px 20px;
+	margin:100px;
+	font-weight:bold;
+	font-size:20px;
+	opacity:0.9;
+	display:inline-block;
+	border-radius:6px;
+	cursor:pointer;
+	position:relative;
+	top:80px;
+}
+.log1
+{
+	position:relative;
+	left:1010px;
+	top:100px;
+}
+#logoutb
+{
+	text-decoration:none;
+	font-size:25px;
+	color:red;
+}
+#logoutb:hover
+{
+	font-size:25px;
+	cursor:pointer;
+	color:blue;
+}
+h1
+{
+	position:relative;
+	top:2px;
+	text-align:center;
+	height:60px;
+	background-color:#F0EAD6;
+	text-shadow:10px 10px 6px gray;	
+}
+body
+{
+background-color:#baafff;
+background-attachment:absolute;
+background-size:100% 100%; 
+}
+.log1 img
+{
+    position:relative;
+	left:110px;
+	top:5px;
+	height:30px;
+	width:30px;
+	opacity:1;
+}
+#head2
+{
+	color:yellow;
+	font-size:25px;
+	position:relative;
+	top:20px;
+	text-align:left;
+}
